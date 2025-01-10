@@ -1,0 +1,16 @@
+# 빌드 결과물
+[Oo]bj/
+[Bb]in/
+
+# 사용자 지정 파일
+*.user
+*.suo
+
+# Visual Studio 폴더
+.vs/
+
+# NuGet 패키지
+packages/
+
+# 환경 설정 파일
+appsettings.*.json
